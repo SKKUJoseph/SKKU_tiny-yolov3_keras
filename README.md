@@ -1,9 +1,3 @@
-# keras-yolo3와 Roboflow
-
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
-
-이 저장소는 Keras를 활용한 YOLOv3-tiny (TensorFlow 백엔드)의 구현체로, [allanzelener/YAD2K](https://github.com/allanzelener/YAD2K)를 참고하여 작성되었습니다.
-
 ## 학습 목표
 * Roboflow에서 커스텀 이미지 감지 데이터를 불러오는 방법
 * Keras에서 YOLOv3-tiny 모델을 설정하는 방법
@@ -24,3 +18,8 @@
 
 ![alt text](https://i.imgur.com/WHFqYSJ.png)
 
+# keras-yolo3와 Roboflow
+
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
+
+이 저장소는 Keras를 활용한 YOLOv3-tiny (TensorFlow 백엔드)의 구현체로, [allanzelener/YAD2K](https://github.com/allanzelener/YAD2K)를 참고하여 작성되었습니다.
