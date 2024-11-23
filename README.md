@@ -2,12 +2,12 @@
 
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
 
-이 저장소는 Keras를 활용한 YOLOv3 (TensorFlow 백엔드)의 구현체로, [allanzelener/YAD2K](https://github.com/allanzelener/YAD2K)를 참고하여 작성되었습니다.
+이 저장소는 Keras를 활용한 YOLOv3-tiny (TensorFlow 백엔드)의 구현체로, [allanzelener/YAD2K](https://github.com/allanzelener/YAD2K)를 참고하여 작성되었습니다.
 
 ## 학습 목표
 * Roboflow에서 커스텀 이미지 감지 데이터를 불러오는 방법
-* Keras에서 YOLOv3 모델을 설정하는 방법
-* YOLOv3 모델을 학습시키는 방법
+* Keras에서 YOLOv3-tiny 모델을 설정하는 방법
+* YOLOv3-tiny 모델을 학습시키는 방법
 * 학습된 모델을 이용하여 추론(Inference)하는 방법
 * 추후 사용을 위해 Keras 모델 가중치를 저장하는 방법
 
