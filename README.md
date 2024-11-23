@@ -1,4 +1,4 @@
-# keras-yolo3-tiny
+# keras-yolov3-tiny
 
 ## 학습 목표
 * Roboflow에서 커스텀 이미지 감지 데이터를 불러오는 방법
