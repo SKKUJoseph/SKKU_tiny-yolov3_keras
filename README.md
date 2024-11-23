@@ -1,3 +1,5 @@
+# keras-yolo3-tiny
+
 ## 학습 목표
 * Roboflow에서 커스텀 이미지 감지 데이터를 불러오는 방법
 * Keras에서 YOLOv3-tiny 모델을 설정하는 방법
@@ -17,8 +19,6 @@
 개발자는 Roboflow를 활용해 코드 작성량을 50% 줄이고, 어노테이션 품질을 자동으로 확인하며, 학습 시간을 단축하고, 모델 재현성을 높일 수 있습니다.
 
 ![alt text](https://i.imgur.com/WHFqYSJ.png)
-
-# keras-yolo3와 Roboflow
 
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
 
