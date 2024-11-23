@@ -15,7 +15,7 @@
 
 이 저장소를 사용하는 데 도움이 되도록 사전 학습된 모델 가중치를 제공합니다. 아래 링크에서 가중치를 다운로드할 수 있습니다:
 
-**[YOLOv3 모델 가중치 다운로드]([https://drive.google.com/uc?id=YOUR_SHARED_FILE_ID](https://drive.google.com/uc?id=1Ybgwyc57cBnq9Byo41zuzOmBdFcRWNRL))**
+**[YOLOv3 모델 가중치 다운로드](https://drive.google.com/uc?id=1Ybgwyc57cBnq9Byo41zuzOmBdFcRWNRL)**
 
 ## Roboflow를 이용한 데이터 관리
 
